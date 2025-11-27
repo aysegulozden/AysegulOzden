@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 Hakkımda
-- 🎓 Bilgisayar Mühendisliği öğrencisiyim.
+- 🎓 İskenderun Teknik Üniversitesinden Bilgisaayr Mühendisliği Bölümünden mezun oldum
 - 💻 C#, HTML, CSS, JavaScript ile projeler geliştiriyorum.
 - 📚 Şu anda **JavaScript** ve **React** konularında kendimi geliştiriyorum.
 - 🎯 Hedefim: Modern web teknolojileri ile güçlü uygulamalar geliştirmek.
